@@ -13,7 +13,7 @@ public class DatabaseConnection implements Closeable{
     private Connection connection;
     String url = "jdbc:mysql://localhost:3306/shop?serverTimezone=CET";
     String user = "root";
-    String password = "Nirvana88";
+    String password = "******";
 
     public DatabaseConnection(){
         try {
