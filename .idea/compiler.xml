@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SDA_28032020_ZajeciaZdalne" />
+        <module name="RadoslawHalfaf3" />
       </profile>
     </annotationProcessing>
   </component>
